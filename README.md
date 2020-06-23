@@ -4,7 +4,7 @@ Object binning and obstacle avoidance with SLAM and object detection in ROS
 
 # How to run
 
-1. Make sure ROS, Gazebo, other files is installed
+1. Install ROS, Gazebo, other files (if not already done)
 2. Download and unzip the repository in the ROS workspace (create a ROS workspace if not already done: http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment)
 3. update the workspace (maybe using command: catkin_make)
 4. Source the bash file of the workspace
